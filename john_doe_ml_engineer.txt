@@ -1,0 +1,17 @@
+John Doe
+Machine Learning Engineer
+
+Summary
+AI engineer with 5 years of experience building machine learning pipelines, NLP systems, and recruiter tooling.
+
+Skills
+Python, SQL, FastAPI, Streamlit, scikit-learn, pandas, NumPy, OpenAI, LangChain, Docker, AWS, Git
+
+Experience
+5 years of experience in machine learning and NLP.
+Built resume ranking APIs using FastAPI and semantic search.
+Created internal recruiter dashboards in Streamlit.
+Developed ETL pipelines and analytics workflows using SQL and Python.
+
+Education
+B.Tech in Computer Science

@@ -1,0 +1,16 @@
+Jane Smith
+Data Analyst
+
+Summary
+Data analyst with 3 years of experience in analytics, BI reporting, and dashboard development.
+
+Skills
+SQL, Python, pandas, NumPy, Tableau, Power BI, statistics, data analysis, Excel
+
+Experience
+3 years of experience in analytics and reporting.
+Built KPI dashboards and automated reporting pipelines.
+Worked with product and operations teams to deliver insights.
+
+Education
+B.Sc in Statistics

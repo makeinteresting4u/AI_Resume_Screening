@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+openai
+langchain
+scikit-learn
+pandas
+numpy
+PyPDF2
+python-docx
+python-multipart
+faiss-cpu

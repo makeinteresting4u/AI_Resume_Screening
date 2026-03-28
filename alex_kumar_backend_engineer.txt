@@ -1,0 +1,16 @@
+Alex Kumar
+Backend Engineer
+
+Summary
+Backend engineer with 4 years of experience building APIs and cloud services.
+
+Skills
+Python, FastAPI, Docker, Kubernetes, AWS, REST API, PostgreSQL, MongoDB, Git
+
+Experience
+4 years of experience designing backend systems and microservices.
+Built scalable APIs, authentication flows, and cloud deployments.
+Limited exposure to machine learning and analytics.
+
+Education
+B.E. in Information Technology
