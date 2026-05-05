@@ -1,0 +1,11 @@
+if total_success >= 8
+    disp(' CURRENCY NOTE IS GENUINE');
+else
+    disp(' CURRENCY NOTE IS SUSPECTED FAKE');
+end
+
+100
+500
+
+t test dataset
+training test
